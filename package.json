@@ -1,0 +1,23 @@
+{
+  "name": "laba2",
+  "version": "1.0.0",
+  "description": "MTF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThreeHaeds/LabaCrime.git"
+  },
+  "author": "Shchapova, Uvarova, Otlivanchik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThreeHaeds/LabaCrime/issues"
+  },
+  "homepage": "https://github.com/ThreeHaeds/LabaCrime#readme",
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "fs": "0.0.1-security"
+  }
+}
